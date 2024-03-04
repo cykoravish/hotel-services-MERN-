@@ -1,6 +1,5 @@
-# MERN Project
-
-Welcome to my frontend project.
+# hotel-services-MERN-
+It's a full stack app with MERN.
 
 ## Project
 
